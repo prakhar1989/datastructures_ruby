@@ -3,4 +3,5 @@
 ###Done###
 - Stacks
 - Queue
+- Singly Linked List
 
